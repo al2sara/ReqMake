@@ -9,4 +9,8 @@ Advanced Request Sending Tool
 + Output received headers and body.
 
 ## Images
-![alt text](https://i.gyazo.com/834f24e25288b6dc1233bab8a93720f5.png "Logo Title Text 1")
+![alt text](https://i.gyazo.com/834f24e25288b6dc1233bab8a93720f5.png "ReqMake Menu")
+
+## Used Libraries
+[Leaf.xNet - An amazing HTTP Library for C# ](https://github.com/csharp-leaf/Leaf.xNet)
+

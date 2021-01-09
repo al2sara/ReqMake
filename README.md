@@ -1,5 +1,5 @@
 # ReqMake
-Advanced Request Sending Tool
+Advanced HTTP Request Maker
 
 ## Features
 + Full support for GET, POST, PUT, PATCH, DELETE, OPTIONS methods.

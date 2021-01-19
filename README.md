@@ -3,7 +3,7 @@ Advanced HTTP Request Maker
 
 ## Features
 + Full support for GET, POST, PUT, PATCH, DELETE, OPTIONS methods.
-+ HTTP/s, Socks4, Sock5 proxy support.
++ HTTP/s, Socks4, Socks5 proxy support.
 + Custom request headers - body.
 + Custom content type.
 + Output received headers and body.
